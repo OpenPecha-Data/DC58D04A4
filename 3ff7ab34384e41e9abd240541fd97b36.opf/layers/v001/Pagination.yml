@@ -1,52 +1,44 @@
-id: 27c6d2caf4a242f3a8651618b3d9045f
+id: a1d4a752a85e4e769c6a869cc370c812
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  c24e37e866cc47479298d4298fa978d7:
+  891b29c769e2450ea40100a7ccb3d9ad:
     imgnum: 228
     reference: ''
     span:
       start: 0
-      end: 735
-    note_ref: 9a2ba5fd1eed43559dfc55e2e4097bd1
-  33b0e119485f49499ba279836b2b69c8:
+      end: 734
+    note_ref: cad4580b491f46d1bd56c1c5b33a16e7
+  d0fb83c63f604725b951d2baf168819a:
     imgnum: 229
     reference: ''
     span:
       start: 737
-      end: 2091
-    note_ref: 9a2ba5fd1eed43559dfc55e2e4097bd1
-  b8dd37472bf64d4095bb4769967691ad:
+      end: 2090
+    note_ref: cad4580b491f46d1bd56c1c5b33a16e7
+  ed3b4f51b4d2419ca8a4bba744b8c21a:
     imgnum: 230
     reference: ''
     span:
       start: 2093
-      end: 3423
-    note_ref: 9a2ba5fd1eed43559dfc55e2e4097bd1
-  9a2ba5fd1eed43559dfc55e2e4097bd1:
+      end: 3422
+    note_ref: cad4580b491f46d1bd56c1c5b33a16e7
+  cad4580b491f46d1bd56c1c5b33a16e7:
     imgnum: 231
     reference: ''
     span:
       start: 3425
-      end: 4393
-    note_ref: 9a2ba5fd1eed43559dfc55e2e4097bd1
-  8750f8070d8a4af28087fff176eb30fc:
+      end: 4400
+    note_ref: cad4580b491f46d1bd56c1c5b33a16e7
+  98f20ade2dd34ba78667524bea67483d:
     imgnum: 232
     reference: ''
     span:
-      start: 4395
-      end: 5133
-  aabe4e51b772497287504984fa783d0d:
-    imgnum: 233
-    reference: ''
-    span:
-      start: 5182
-      end: 5182
-    note_ref: ''
+      start: 4403
+      end: 5108
 local_ids:
-  c24e37e866cc47479298d4298fa978d7: 200000
-  33b0e119485f49499ba279836b2b69c8: 200001
-  b8dd37472bf64d4095bb4769967691ad: 200002
-  9a2ba5fd1eed43559dfc55e2e4097bd1: 200003
-  8750f8070d8a4af28087fff176eb30fc: 200004
-  aabe4e51b772497287504984fa783d0d: 200005
+  891b29c769e2450ea40100a7ccb3d9ad: 200000
+  d0fb83c63f604725b951d2baf168819a: 200001
+  ed3b4f51b4d2419ca8a4bba744b8c21a: 200002
+  cad4580b491f46d1bd56c1c5b33a16e7: 200003
+  98f20ade2dd34ba78667524bea67483d: 200004
